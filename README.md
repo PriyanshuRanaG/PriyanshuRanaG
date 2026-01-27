@@ -109,6 +109,6 @@ The direction going forward is strongly focused on:
 
 ## 📫 Connect
 
-LinkedIn: <link>  
-Email: <email>  
-GitHub: <username>
+LinkedIn: https://www.linkedin.com/in/priyanshu-rana-0466666569abc/
+Email: ranapriyanshu0405@gmail.com
+

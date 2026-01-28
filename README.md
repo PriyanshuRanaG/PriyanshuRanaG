@@ -4,7 +4,7 @@
 
 ### 🧬 Bioinformatics · Data Science · Machine Learning · Research Computing
 
-I’m currently completing a **Master’s in Bioinformatics (by dissertation)**, where my research focuses on computational analyses in molecular biology using high-performance computing environments.
+I’m currently completing a **Master’s in Bioinformatics (by dissertation)**, where my research focuses on computational analyses in plant centromeres using high-performance computing environments.
 
 My work spans:
 

@@ -1,5 +1,3 @@
-## Hi there Recruiters👋
-
 # I'm Priyanshu 👋
 
 ### 🧬 Bioinformatics · Data Science · Machine Learning · Research Computing
